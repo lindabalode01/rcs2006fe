@@ -3,6 +3,12 @@ public class Main {
 
       Window window = new Window();
       window.login1();
+      window.createNewAccount();
+      window.logInButton();
+      window.doctorWindow();
+      window.clinicWindow();
+
+
 
     }
 }
